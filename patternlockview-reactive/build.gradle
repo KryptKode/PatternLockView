@@ -41,5 +41,7 @@ dependencies {
     implementation project(':patternlockview')
     implementation rootProject.ext.rxJava
     implementation rootProject.ext.rxAndroid
+    implementation rootProject.ext.annotation
+
 }
 

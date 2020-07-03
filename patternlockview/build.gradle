@@ -39,4 +39,5 @@ android {
 
 dependencies {
     implementation rootProject.ext.supportV7
+    implementation rootProject.ext.annotation
 }
